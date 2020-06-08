@@ -34,7 +34,7 @@ by Baihan Lin, Jan 2020
 
 ## Citation
 
-If you find this work helpful, please try the models out and cite our works. Thanks!
+If you find this work helpful, please try out the models and cite our works. Thanks!
 
     @inproceedings{lin2020speaker,
       title={Speaker Diarization as a Fully Online Learning Problem in MiniVox},
@@ -59,5 +59,5 @@ If you find this work helpful, please try the models out and cite our works. Tha
 
 ## Acknowledgements 
 
-The CNN pretrained model was accessed from https://github.com/a-nagrani/VGGVox. We modify many of the original files and included our comparison.
+The CNN pretrained model was accessed from https://github.com/a-nagrani/VGGVox. We modified many of the original files and included our comparison.
 
