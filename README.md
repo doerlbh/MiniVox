@@ -1,6 +1,6 @@
 # MiniVox
 
-![minivox](/Users/DoerLBH/Dropbox (Personal)/Git/paper_codes_public/MiniVox/img/minivox.png)
+![minivox](./img/minivox.png)
 
 
 
