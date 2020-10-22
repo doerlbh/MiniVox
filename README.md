@@ -8,7 +8,7 @@ Code for our paper:
 
 **"Speaker Diarization as a Fully Online Learning Problem in MiniVox"** 
 
-by [Baihan Lin](https://www.baihan.nyc/) (Columbia) and [Xinxin Zhang](https://www.estherzhang.com/) (UW). 
+by [Baihan Lin](https://www.baihan.nyc/) (Columbia) and [Xinxin Zhang](https://www.estherzhang.com/) (NYU). 
 
 
 
