@@ -6,7 +6,7 @@
 
 Code for our papers: 
 
-*ACML 2021* **"Speaker Diarization as a Fully Online Bandit Learning Problem in MiniVox" **
+*ACML 2021* **"Speaker Diarization as a Fully Online Bandit Learning Problem in MiniVox"**
 
 *INTERSPEECH 2020* **"VoiceID on the fly: A speaker recognition system that learns from scratch"**
 
@@ -64,7 +64,7 @@ If you find this work helpful, please try out the models and cite our works. Tha
       booktitle={INTERSPEECH},
       year={2020}
     }
-    
+
 
 
 
